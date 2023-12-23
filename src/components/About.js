@@ -10,7 +10,7 @@ export default function About() {
             <br className="hidden lg:inline-block" />I love to Deliver Cloud & DevOps solutions.
           </h1>
           <p className="mb-8 leading-relaxed">
-          Analytical, organized, and detail-oriented Senior Software Engineer with 5 Years of
+          Analytical, organized, and detail-oriented Senior Software Engineer with 
             experience in the full spectrum of DevOps tools. Collaborative team player with an ownership
             mentality and a track record of delivering the highest quality strategic solutions to resolve
             challenges.
